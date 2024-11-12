@@ -1,3 +1,5 @@
+![MasterHead](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fn9b2p3j0h1mdqvms3ogc.gif)
+
 ## 👋  Hi, I'm Rashad!
 
 👨🏻‍💻 As a QA Engineer, I’m passionate about automation and improving software quality through efficient testing. I enjoy exploring new tools, collaborating with developers, and staying updated on tech trends to implement scalable, adaptable testing practices.
